@@ -9,7 +9,7 @@
 
 ### Godot
 
-Join me! I'm making [open source tools and packages](https://github.com/chickensoft-games) for C# Godot development, ranging from state machines, node-based dependency resolvers, and testing systems!
+Join me! I'm making [open source tools and packages](https://github.com/chickensoft-games) for C# Godot development, including state machines, GitHub actions, test frameworks, node-based dependency resolvers, and source generators!
 
 ### Programming Languages
 
