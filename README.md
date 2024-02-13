@@ -1,5 +1,5 @@
 # Joanna May
-## Software Engineer, Very Good Ventures
+## Engineering Manager, Very Good Ventures
 
 - 🦄  Working at [@VeryGoodVentures](https://github.com/VeryGoodOpenSource/)
 - 📱  Passionate about Flutter, architecture, and best practices!
